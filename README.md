@@ -1,4 +1,4 @@
-# homeanage
+# dice roller
 
 A new Flutter project.
 
